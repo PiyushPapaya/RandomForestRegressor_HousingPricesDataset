@@ -1,6 +1,6 @@
 # RandomForestRegressor_HousingPricesDataset
 
-A Random Forest regression model to predict housing prices, including data preprocessing and hyperparameter tuning using `GridSearchCV`.
+A Random Forest regression model to predict housing prices from this [dataset](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)
 
 ---
 
