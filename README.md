@@ -75,4 +75,4 @@ This indicates that the model is useful for rough price estimates but not highly
 
 ---
 
-Build and trained on [Kaggle](https://www.kaggle.com) by Piyush Nagpal
+Build and trained on [Kaggle](https://www.kaggle.com) by Piyush Nagpal.
